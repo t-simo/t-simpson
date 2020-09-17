@@ -34,7 +34,7 @@ education:
     institution: Swinburne University of Technology
     year: 2009
   - course: Bachelor of Science, Psychology and Psychophysiology
-    institution: Massachusetts Institute of Technology
+    institution: Swinburne University of Technology
     year: 2007
 
 # Social/Academic Networking
@@ -42,15 +42,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
+- icon: fa-envelope-square
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: ai-google-scholar-square ai-3x
+  icon_pack: ai
+  link: https://scholar.google.com.au/citations?user=24wHgXwAAAAJ&hl=en&oi=sra
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Tamara_Simpson2
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/tamsimpson_
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com.au/citations?user=24wHgXwAAAAJ&hl=en&oi=sra
 # - icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
