@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Adjunct Research Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Cognitive Neuroscience
     institution: Swinburne University of Technology
-    year: Current
+    year: 2024
   - course: Postgraduate Diploma of Psychology
     institution: Swinburne University of Technology
     year: 2009
